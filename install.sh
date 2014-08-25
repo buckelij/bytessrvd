@@ -1,4 +1,4 @@
-#install virtualenv, java
+##install virtualenv, java
 sudo apt-get install openjdk-7-jre-headless
 sudo apt-get install python-virtualenv
 
